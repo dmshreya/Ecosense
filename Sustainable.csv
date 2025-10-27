@@ -1,0 +1,515 @@
+﻿Name,Category  , Packaging ,Recyclability ,Components Used,Carbon_Footprints,Water_Usage_Liters,Sustainability_Score,Sustainability_Level ,Sustainable_Alternative
+Foundation, Cosmetics, Glass bottle, Yes, Water mica titanium dioxide,28,10,82, High, Refillable foundation stick
+Concealer, Cosmetics, Plastic tube, No, Talc dimethicone pigments,26,8,78, Medium, Paper tube concealer
+BB Cream, Cosmetics, Plastic tube, Yes, Glycerin SPF agents natural oils,18,5,84, High, Tinted moisturizer with SPF
+CC Cream, Cosmetics, Squeeze tube, Yes, Green tea extract zinc oxide pigments,20,6,80, High, Mineral-based CC cream
+Tinted Moisturizer, Cosmetics, Tube, Yes, Shea butter zinc oxide glycerin,22,7,83, High, Organic tinted balm
+Powder Compact, Cosmetics, Plastic case, No, Talc mica silica,35,4,72, Medium, Refillable powder compact
+Loose Powder, Cosmetics, Plastic jar, No, Rice powder mica zinc oxide,33,5,74, Medium, Paper refill pack
+Blush, Cosmetics, Plastic case, No, Mica iron oxide talc,31,4,76, Medium, Bamboo blush palette
+Bronzer, Cosmetics, Plastic compact, No, Mica iron oxide silica,30,4,75, Medium, Refillable bronzer tin
+Highlighter, Cosmetics, Plastic case, No, Mica titanium dioxide silica,29,4,77, Medium, Recycled aluminum pan
+Contour Stick, Cosmetics, Plastic tube, No, Wax pigment oil blend,32,6,73, Medium, Paper push-up contour
+Setting Spray, Cosmetics, Plastic bottle, No, Water alcohol aloe vera,40,12,65, Medium, Glass spray bottle
+Primer, Cosmetics, Plastic tube, No, Silicone dimethicone vitaminE,38,10,70, Medium, Water-based primer
+Lipstick, Cosmetics, Plastic case, No, Wax pigment oil,45,6,62, Medium, Paper tube lipstick
+Lip Gloss, Cosmetics, Plastic tube, No, Mineral oil flavor pigment,43,5,64, Medium, Glass wand gloss
+Lip Balm, Cosmetics, Plastic tube, Yes, Shea butter wax oil,25,3,85, High, Compostable paper tube balm
+Lip Liner, Cosmetics, Pencil, Yes, Wood pigment wax,21,2,86, High, Bamboo lip liner
+Mascara, Cosmetics, Plastic tube, No, Wax pigment oil polymer,47,8,60, Low, Glass refill mascara
+Eyeliner, Cosmetics, Plastic pen, No, Carbon black water polymer,44,7,63, Medium, Wooden eyeliner pencil
+Eyeshadow Palette, Cosmetics, Plastic palette, No, Mica talc pigment,46,9,61, Low, Recycled paper palette
+Eyebrow Pencil, Cosmetics, Pencil, Yes, Wax pigment wood,24,3,82, High, Bamboo eyebrow pencil
+Eyelash Curler, Cosmetics, Metal, Yes, Stainless steel rubber pad,19,0,88, High, Recyclable curler
+Nail Polish, Cosmetics, Glass bottle, Yes, Nitrocellulose solvent pigment,28,4,79, High, Water-based polish
+Nail Polish Remover, Cosmetics, Plastic bottle, No, Acetone water glycerin,39,8,68, Medium, Bio-acetone remover
+Makeup Remover, Cosmetics, Plastic bottle, No, Micellar water glycerin aloe,37,7,71, Medium, Refillable glass bottle
+Face Serum, Cosmetics, Glass bottle, Yes, Hyaluronic acid water vitaminC,26,5,83, High, Refillable serum bottle
+Face Oil, Cosmetics, Glass bottle, Yes, Jojoba oil rosehip oil,25,4,85, High, Refillable oil dropper
+Moisturizer, Cosmetics, Plastic jar, No, Glycerin aloe shea butter,42,6,67, Medium, Glass jar moisturizer
+Sunscreen, Cosmetics, Plastic tube, No, Zinc oxide aloe glycerin,41,9,69, Medium, Reef-safe tin sunscreen
+Face Wash, Cosmetics, Plastic tube, No, Water glycerin salicylic acid,43,10,66, Medium, Refillable glass dispenser
+Toner, Cosmetics, Plastic bottle, No, Witch hazel aloe water,36,8,72, Medium, Glass spray toner
+Face Mask, Cosmetics, Plastic pouch, No, Clay aloe extract,48,7,60, Low, Powder-based mask in jar
+Sheet Mask, Cosmetics, Plastic pouch, No, Cotton serum essence,50,12,55, Low, Compostable sheet mask
+Body Lotion, Cosmetics, Plastic bottle, No, Water glycerin shea butter,39,10,68, Medium, Refillable glass bottle
+Body Wash, Cosmetics, Plastic bottle, No, Water surfactant fragrance,40,9,67, Medium, Bar soap alternative
+Shampoo, Cosmetics, Plastic bottle, No, Water surfactant fragrance,42,11,65, Medium, Shampoo bar
+Conditioner, Cosmetics, Plastic bottle, No, Water silicone oils,41,10,66, Medium, Conditioner bar
+Hair Serum, Cosmetics, Plastic bottle, No, Argan oil silicone,38,8,70, Medium, Glass bottle serum
+Hair Oil, Cosmetics, Plastic bottle, No, Coconut oil almond oil,33,6,74, Medium, Glass refillable bottle
+Hair Spray, Cosmetics, Plastic bottle, No, Water polymer fragrance,45,10,62, Medium, Refillable aluminum spray
+Hair Gel, Cosmetics, Plastic jar, No, Water polymer fragrance,43,9,65, Medium, Biodegradable gel jar
+Perfume, Cosmetics, Glass bottle, Yes, Alcohol water fragrance,30,8,81, High, Refillable perfume bottle
+Deodorant, Cosmetics, Plastic bottle, No, Alcohol water fragrance,37,9,70, Medium, Paper tube deodorant
+Body Mist, Cosmetics, Plastic bottle, No, Water alcohol fragrance,39,8,68, Medium, Glass spray mist
+Body Scrub, Cosmetics, Plastic jar, No, Sugar salt oils,35,7,71, Medium, Refillable glass jar
+Hand Cream, Cosmetics, Plastic tube, No, Shea butter glycerin aloe,33,6,74, Medium, Metal tube hand cream
+Foot Cream, Cosmetics, Plastic tube, No, Shea butter menthol aloe,34,6,73, Medium, Metal tube foot cream
+Potato chips, Food, Plastic pouch, No, Potato salt oil,30,8,75, Medium, Baked potato crisps
+Banana chips, Food, Plastic pouch, No, Banana salt coconut oil,28,7,77, Medium, Dried banana wafers
+Nachos, Food, Plastic pouch, No, Corn flour oil seasoning,32,9,72, Medium, Oven baked nachos
+Popcorn, Food, Paper pouch, Yes, Corn oil salt butter,25,6,80, High, Air popped popcorn
+Masala peanuts, Food, Plastic pouch, No, Peanut gram flour spice mix,27,7,78, Medium, Roasted masala peanuts
+Roasted chana, Food, Plastic pouch, No, Bengal gram salt spice,22,5,84, High, Protein roasted chana
+Trail mix, Food, Plastic pouch, No, Almond cashew raisin cranberry,26,6,82, High, Energy trail mix
+Corn puffs, Food, Plastic pouch, No, Cornmeal oil seasoning,33,9,70, Medium, Baked corn curls
+Cheese balls, Food, Plastic pouch, No, Corn flour cheese powder oil,35,10,68, Medium, Crunchy cheese balls
+Khakhra, Food, Paper pouch, Yes, Wheat flour oil spices,20,5,85, High, Whole wheat khakhra
+Bhujia, Food, Plastic pouch, No, Gram flour oil spices,28,8,74, Medium, Baked bhujia mix
+Sev, Food, Plastic pouch, No, Gram flour oil salt,27,7,75, Medium, Thin sev snack
+Murukku, Food, Plastic pouch, No, Rice flour urad flour spices,30,8,72, Medium, South Indian murukku
+Chakli, Food, Plastic pouch, No, Rice flour wheat flour sesame,29,8,73, Medium, Multigrain chakli
+Samosa (frozen), Food, Plastic box, No, Wheat flour potato peas spices,34,10,70, Medium, Baked samosa
+Spring rolls (frozen), Food, Plastic box, No, Wheat sheet cabbage carrot oil,36,10,68, Medium, Air fried spring rolls
+French fries (frozen), Food, Plastic bag, No, Potato salt oil,30,9,74, Medium, Baked potato fries
+Onion rings (frozen), Food, Plastic bag, No, Onion flour oil batter,33,9,71, Medium, Air fried onion rings
+Chicken nuggets (frozen), Food, Plastic bag, No, Chicken flour breadcrumbs oil,38,12,65, Medium, Plant protein nuggets
+Fish fingers (frozen), Food, Plastic bag, No, Fish flour breadcrumbs oil,40,13,62, Medium, Baked fish sticks
+Veg biryani, Food, Plastic tray, No, Rice vegetables spices oil,34,9,70, Medium, Compostable bowl biryani
+Dal makhani, Food, Plastic bowl, No, Black lentil butter cream tomato,32,9,72, Medium, Reusable glass jar dal
+Rajma chawal, Food, Plastic tray, No, Kidney beans rice tomato spices,30,8,75, Medium, Compostable pack rajma
+Pindi chana, Food, Plastic pouch, No, Chickpeas tomato spices oil,28,8,77, Medium, Canned chickpea curry
+Palak paneer, Food, Plastic pouch, No, Spinach paneer tomato spices,30,9,74, Medium, Glass jar curry
+Paneer butter masala, Food, Plastic pouch, No, Paneer butter tomato cream,32,10,72, Medium, Compostable curry pack
+Chole, Food, Plastic pouch, No, Chickpeas onion tomato spices,28,8,78, Medium, Glass jar curry
+Upma, Food, Plastic cup, No, Rava vegetables oil spices,22,6,83, High, Paper cup upma
+Poha, Food, Plastic cup, No, Flattened rice onion spices,23,6,82, High, Paper cup poha
+Idli sambar, Food, Plastic tray, No, Rice lentil sambar spices,26,7,80, High, Compostable idli meal
+Masala dosa, Food, Plastic tray, No, Rice lentil potato masala,28,8,78, Medium, Paper wrap dosa
+Pav bhaji, Food, Plastic bowl, No, Bread butter tomato peas,30,9,74, Medium, Compostable pav bhaji bowl
+Thai curry rice, Food, Plastic box, No, Rice coconut curry vegetables,35,10,70, Medium, Bamboo container meal
+Pasta (mac & cheese), Food, Plastic cup, No, Pasta cheese milk butter,30,9,74, Medium, Paper cup pasta
+Noodles (instant), Food, Plastic cup, No, Noodles masala oil,28,8,76, Medium, Paper bowl noodles
+Ramen, Food, Plastic cup, No, Wheat noodles broth spice,30,9,74, Medium, Cup ramen paper pack
+Hakka noodles, Food, Plastic tray, No, Noodles soy sauce vegetables,32,9,73, Medium, Compostable noodle box
+Fried rice, Food, Plastic tray, No, Rice oil soy sauce vegetables,33,9,72, Medium, Compostable rice box
+Manchurian, Food, Plastic box, No, Veg balls soy sauce chili,35,10,70, Medium, Eco friendly bowl
+Kathi rolls, Food, Paper wrap, Yes, Wheat roti vegetable paneer,25,7,80, High, Compostable wrap
+Baked beans, Food, Tin can, Yes, Beans tomato sugar salt,22,6,83, High, Glass jar beans
+Sweet corn, Food, Tin can, Yes, Corn water salt,20,5,85, High, Fresh packed corn
+Mushrooms, Food, Tin can, Yes, Mushroom water salt,21,5,84, High, Fresh packed mushroom
+Olives, Food, Glass jar, Yes, Olives brine salt,18,4,88, High, Organic olive jar
+JalapeÃ±os, Food, Glass jar, Yes, Jalapeno vinegar salt,19,5,86, High, Organic jalapeno jar
+Pickles (mango), Food, Glass jar, Yes, Mango oil salt spices,26,8,79, Medium, Organic pickle jar
+Jam (strawberry), Food, Glass jar, Yes, Strawberry sugar pectin,20,6,84, High, Refillable jam jar
+Honey, Food, Glass jar, Yes, Honey natural enzyme,15,4,91, Very High, Glass honey jar
+Peanut butter, Food, Plastic jar, No, Peanut salt sugar,25,7,80, High, Glass peanut butter jar
+Nutella, Food, Plastic jar, No, Cocoa hazelnut sugar milk,28,9,75, Medium, Glass chocolate spread jar
+Tomato puree, Food, Tin can, Yes, Tomato salt preservative,20,6,83, High, Glass bottle puree
+Pasta sauce, Food, Glass jar, Yes, Tomato basil olive oil,22,6,82, High, Refillable sauce jar
+Pizza sauce, Food, Glass jar, Yes, Tomato herbs oil,22,6,83, High, Compostable jar
+Coconut milk, Food, Tin can, Yes, Coconut extract water,24,7,81, High, Paper carton coconut milk
+Condensed milk, Food, Tin can, Yes, Milk sugar,23,6,82, High, Paper pack condensed milk
+Evaporated milk, Food, Tin can, Yes, Milk sugar,23,6,82, High, Paper pack milk
+Fruit cocktail, Food, Tin can, Yes, Fruits syrup sugar,24,6,82, High, Glass jar fruit mix
+Pineapple slices, Food, Tin can, Yes, Pineapple syrup sugar,25,6,80, High, Glass jar pineapple
+Ghee, Food, Tin can, Yes, Butter fat milk solid,20,5,86, High, Glass ghee jar
+Fruit juices (tetra pack), Food, Tetra pack, Yes, Fruit pulp water sugar,28,7,77, Medium, Recyclable carton juice
+Coconut water, Food, Tetra pack, Yes, Coconut water,18,4,89, High, Paper carton coconut water
+Buttermilk, Food, Plastic bottle, No, Curd water salt,22,6,82, High, Paper bottle buttermilk
+Lassi, Food, Plastic bottle, No, Curd sugar cardamom,24,6,80, High, Paper bottle lassi
+Cold coffee, Food, Plastic bottle, No, Coffee milk sugar,26,7,78, Medium, Glass cold coffee
+Iced tea, Food, Plastic bottle, No, Tea extract sugar lemon,26,7,78, Medium, Glass iced tea
+Energy drinks, Food, Aluminum can, Yes, Caffeine sugar flavor,28,8,76, Medium, Paper energy drink
+Sports drinks, Food, Plastic bottle, No, Electrolyte sugar water,28,8,77, Medium, Paper sports drink
+Kombucha, Food, Glass bottle, Yes, Tea culture sugar,20,5,85, High, Refillable kombucha bottle
+Flavored milk, Food, Plastic bottle, No, Milk sugar cocoa,25,7,80, High, Paper milk carton
+Milkshakes, Food, Plastic bottle, No, Milk flavor sugar,26,8,78, Medium, Recyclable glass bottle
+Smoothies, Food, Plastic bottle, No, Fruit pulp yogurt honey,24,7,81, High, Compostable smoothie cup
+Soy milk, Food, Tetra pack, Yes, Soybean water sugar,20,6,84, High, Paper pack soy milk
+Almond milk, Food, Tetra pack, Yes, Almond water sugar,20,6,85, High, Paper pack almond milk
+Protein shakes, Food, Plastic bottle, No, Milk protein cocoa sugar,30,9,73, Medium, Compostable protein shake bottle
+Bottled water, Food, Plastic bottle, No, Water mineral,18,4,90, High, Refillable metal bottle
+Sparkling water, Food, Glass bottle, Yes, Carbonated water minerals,15,4,92, Very High, Refillable glass bottle
+Soda, Food, Aluminum can, Yes, Carbonated water sugar,20,6,85, High, Glass soda bottle
+Tonic water, Food, Aluminum can, Yes, Carbonated water quinine sugar,22,6,82, High, Glass tonic bottle
+Canned cocktails, Food, Aluminum can, Yes, Alcohol fruit flavor sugar,25,7,80, High, Refillable cocktail bottle
+Bread, Food, Plastic pouch, No, Wheat yeast salt sugar,22,6,83, High, Paper bread bag
+Buns, Food, Plastic pouch, No, Wheat yeast butter sugar,23,6,82, High, Paper bun pack
+Croissants, Food, Plastic pouch, No, Wheat butter sugar,24,6,80, High, Paper croissant pack
+Muffins, Food, Plastic pack, No, Wheat egg sugar butter,25,7,78, Medium, Paper muffin cup
+Cupcakes, Food, Plastic pack, No, Wheat egg sugar cream,26,7,78, Medium, Paper cupcake pack
+Cookies, Food, Plastic pack, No, Wheat butter sugar chocolate,27,8,76, Medium, Paper cookie bag
+Biscuits, Food, Plastic pack, No, Wheat flour oil sugar,25,7,79, Medium, Paper biscuit pack
+Rusk, Food, Plastic pack, No, Wheat sugar butter yeast,26,8,78, Medium, Paper rusk pack
+Cake slices, Food, Plastic pack, No, Wheat egg sugar butter,28,9,74, Medium, Paper cake slice
+Granola bars, Food, Plastic wrap, No, Oats honey nuts fruit,24,6,82, High, Paper granola wrap
+Muesli, Food, Plastic pouch, No, Oats nuts raisins honey,23,6,83, High, Compostable pack
+Cornflakes, Food, Plastic pouch, No, Corn sugar salt,22,5,85, High, Paper cereal box
+Choco flakes, Food, Plastic pouch, No, Corn cocoa sugar,23,6,83, High, Paper cereal box
+Oats, Food, Plastic pouch, No, Oats grain fiber,20,5,86, High, Compostable oats pack
+Instant porridge, Food, Plastic cup, No, Oats milk sugar fruit,24,6,81, High, Paper cup porridge
+Pancake mix, Food, Plastic pouch, No, Wheat sugar baking powder,25,7,79, Medium, Paper pancake mix
+Waffle mix, Food, Plastic pouch, No, Wheat sugar butter milk,26,8,78, Medium, Paper waffle mix
+Breadsticks, Food, Plastic pouch, No, Wheat oil salt,22,5,84, High, Paper breadstick pack
+Doughnuts, Food, Plastic box, No, Wheat sugar oil chocolate,30,9,74, Medium, Paper doughnut box
+Bagels, Food, Plastic pouch, No, Wheat yeast salt,24,6,80, High, Paper bagel pack
+Cheese slices, Foods, Plastic pack, No, Milk enzymes salt,72,240,55, Medium, Paper wrap cheese slice  
+Cheese cubes, Foods, Plastic tray, No, Milk enzymes salt,70,230,56, Medium, Compostable cheese cube pack  
+Cream cheese, Foods, Plastic tub, No, Milk cream salt,68,220,58, Medium, Glass jar cream cheese  
+Paneer, Foods, Plastic pouch, No, Milk lemon water,65,210,60, Medium, Fresh paneer wrap  
+Yogurt (flavored), Foods, Plastic cup,No, Milk culture sugar,68,220,55,Medium, Glass jar yogurt  
+Curd, Foods, Plastic pouch, No, Milk culture,60,200,62, Medium, Clay pot curd  
+Ice cream, Foods, Paper cup, Yes, Milk sugar flavor,50,180,68, Medium, Compostable ice cream cup  
+Frozen yogurt, Foods, Paper cup, Yes, Milk sugar flavor,48,170,70, High, Reusable frozen yogurt jar  
+Kulfi, Foods, Plastic stick, No, Milk sugar flavor,65,220,58, Medium, Paper stick kulfi  
+Butter, Foods, Paper wrap, Yes, Milk cream salt,45,180,72, High, Compostable butter wrap  
+Milk powder, Foods, Paper pouch, Yes, Milk dried solids,48,190,70, High, Eco milk powder pack  
+Whipping cream, Foods, Plastic bottle, No, Milk fat stabilizer,65,230,55, Medium, Glass jar cream  
+Sour cream, Foods, Plastic tub, No, Milk culture cream,68,230,54, Medium, Recyclable glass tub  
+Frozen peas, Foods, Plastic pouch, No, Peas water,60,200,62, Medium, Compostable pea pouch  
+Frozen corn, Foods, Plastic pouch, No, Corn water,58,190,64, Medium, Compostable corn pouch  
+Mixed vegetables (frozen), Foods, Plastic pouch, No, Carrot beans peas,62,210,60, Medium, Compostable veggie pack  
+Frozen berries, Foods, Plastic pouch, No, Berries sugar water,64,220,58, Medium, Paper pack frozen berries  
+Frozen paratha, Foods, Plastic pouch, No, Wheat flour oil salt,70,240,55, Medium, Paper wrap paratha  
+Frozen chapati, Foods, Plastic pouch, No, Wheat flour oil salt,70,230,55, Medium, Compostable chapati wrap  
+Ketchup, Foods, Plastic bottle, No, Tomato sugar vinegar,68,230,56, Medium, Glass bottle ketchup  
+Mayonnaise, Foods, Plastic bottle, No, Egg oil vinegar,72,250,54, Medium, Glass bottle mayo  
+Mustard, Foods, Glass jar, Yes, Mustard seeds vinegar salt,45,180,70, High, Refillable mustard jar  
+Soy sauce, Foods, Glass bottle, Yes, Soybeans salt water,50,200,68, Medium, Refillable soy bottle  
+Chili sauce, Foods, Glass bottle, Yes, Chili vinegar salt,52,210,66, Medium, Compostable chili sauce  
+Green chutney, Foods, Plastic pouch, No, Coriander mint chili,68,220,55, Medium, Glass jar chutney  
+Tamarind chutney, Foods, Plastic pouch, No, Tamarind jaggery salt,70,230,53, Medium, Glass jar chutney  
+Schezwan sauce, Foods, Glass bottle, Yes, Chili garlic soy oil,54,210,65, Medium, Compostable bottle  
+Barbecue sauce, Foods, Glass bottle, Yes, Tomato molasses vinegar,56,220,63, Medium, Glass bottle BBQ sauce  
+Salad dressing, Foods, Glass bottle, Yes, Oil vinegar herbs,50,200,68, Medium, Refillable dressing bottle  
+Vinegar, Foods, Glass bottle, Yes, Acetic acid water,48,190,70, High, Refillable vinegar bottle  
+Hot sauce, Foods, Glass bottle, Yes, Chili vinegar salt,50,200,68, Medium, Compostable sauce bottle  
+Garlic paste, Foods, Plastic pouch, No, Garlic oil salt,68,230,55, Medium, Glass jar garlic paste  
+Ginger paste, Foods, Plastic pouch, No, Ginger oil salt,68,230,55, Medium, Glass jar ginger paste  
+Mixed spice blends, Foods, Paper pouch, Yes, Spices herbs salt,45,180,70, High, Compostable spice pack  
+Curry paste, Foods, Glass jar, Yes, Spices oil onion garlic,48,190,68, Medium, Refillable curry paste jar  
+Tandoori marinade, Foods, Glass jar, Yes, Yogurt spices lemon,50,200,68, Medium, Glass jar tandoori  
+Pasta seasoning, Foods, Paper pouch, Yes, Herbs salt chili,42,170,72, High, Compostable seasoning pouch  
+Pizza seasoning, Foods, Paper pouch, Yes, Oregano chili salt,42,170,72, High, Compostable seasoning pouch  
+Sandwich spread, Foods, Plastic bottle, No, Oil egg salt flavor,68,220,55, Medium, Glass jar spread
+Smartphones, Electronics, Box, Yes, Screen Battery Chipset Camera Module Casing,75,28,78, High, Refurbished smartphones
+Feature phones, Electronics, Box, Yes, Screen Battery Chipset Buttons Casing,60,20,62, Medium, Recycled plastic body phones
+Smartwatches, Electronics, Box, Partially, Display Strap Sensor Battery Casing,68,18,65, Medium, Solar-powered smartwatch
+Fitness bands, Electronics, Box, Partially, Display Strap Sensor Battery,66,16,63, Medium, Biodegradable strap fitness band
+Wireless earbuds, Electronics, Box, No, Battery Drivers Plastic Case Chipset,58,14,55, Medium, Recyclable earbuds
+Wired earphones, Electronics, Plastic wrap, Yes, Wire Jack Drivers Plastic Casing,52,12,57, Medium, Metal body earphones
+Bluetooth headphones, Electronics, Box, Partially, Battery Drivers Chipset Foam Cushion,64,22,60, Medium, Headphones with recycled aluminum
+Neckband headphones, Electronics, Box, Partially, Battery Neckband Wire Chipset,62,19,59, Medium, Bioplastic neckband headphones
+Smart rings, Electronics, Box, Partially, Sensor Battery Chipset Shell,72,10,70, High, Smart ring with recycled titanium
+VR headsets, Electronics, Box, No, Lenses Display Straps Chipset Plastic,55,25,58, Medium, VR headsets made with recycled plastic
+AR glasses, Electronics, Box, No, Lenses Display Frame Chipset Battery,70,20,68, High, Eco-friendly AR glasses
+Screen protectors, Electronics, Plastic cover, Yes, Glass Film Adhesive Layer,40,5,75, High, Biodegradable screen protector
+Phone cases, Electronics, Plastic wrap, Yes, Silicone Rubber Plastic Shell,45,8,72, High, Bamboo or biodegradable phone case
+Power banks, Electronics, Box, No, Battery Circuit Board Plastic Case,60,18,58, Medium, Solar-powered power bank
+Charging cables, Electronics, Plastic wrap, Yes, Copper Wire Rubber Coating Connector,48,6,65, Medium, Recycled nylon braided cables
+Wall chargers, Electronics, Box, Yes, Plug Circuit Board Plastic Case,55,10,63, Medium, Energy-efficient chargers
+Car chargers, Electronics, Box, Yes, Plug Adapter Circuit Plastic Body,54,12,62, Medium, Solar-powered car charger
+Mobile holders, Electronics, Plastic wrap, Yes, Clamp Spring Plastic Base,42,4,70, High, Bamboo or recycled metal holder
+SIM card kits, Electronics, Plastic cover, Yes, SIM Card Tray Plastic Shell,38,2,73, High, eSIM technology
+OTG adapters, Electronics, Plastic wrap, Yes, Connector Chip Metal Casing,46,5,68, Medium, Recycled metal adapters
+Dining chair, Furniture, Cardboard, Yes, Wood Screws Cushion Fabric,35,25,68, Medium, Bamboo chair
+Armchair, Furniture, Plastic, No, Wood Foam Fabric Screws,45,40,72, High, Bamboo armchair
+Lounge chair, Furniture, Fabric, Yes, Wood Foam Upholstery Nails,50,55,74, High, Rattan lounge chair
+Rocking chair, Furniture, Wood, Yes, Wood Hinges Screws Cushion,42,35,70, High, Bamboo rocking chair
+Office chair, Furniture, Plastic, No, Metal Base Wheels Foam Mesh,60,40,58, Medium, Recycled plastic chair
+Gaming chair, Furniture, PU leather, No, Metal Frame Cushion Wheels Bolts,75,50,45, Low, Fabric eco chair
+Bar stool, Furniture, Metal, Yes, Steel Seat Screws Rubber Caps,30,25,66, Medium, Bamboo stool
+Folding chair, Furniture, Metal, Yes, Aluminum Hinges Screws Cushion,28,20,69, Medium, Recycled plastic folding chair
+Bean bag, Furniture, Fabric, No, Foam Beads Zipper Cover,70,80,48, Low, Cotton bean bag
+Recliner, Furniture, Leather, No, Metal Frame Motor Foam Cushion,85,60,35, Low, Fabric recliner
+Sofa (2-seater 3-seater), Furniture, Fabric,yes, Wood Foam Springs Fabric,65,75,55,Medium, Rattan sofa
+Sectional sofa, Furniture, Leather, No, Wood Foam Metal Connectors,80,85,38, Low, Recycled fabric sectional
+Sofa bed, Furniture, Fabric, Yes, Wood Frame Cushion Springs,55,60,62, Medium, Bamboo frame sofa bed
+Ottoman, Furniture, Fabric, Yes, Wood Foam Fabric Buttons,40,35,64, Medium, Woven ottoman
+Pouffe, Furniture, Fabric, Yes, Cotton Yarn Filling Stitching,32,30,68, Medium, Jute pouffe
+Single bed, Furniture, Wood, Yes, Wood Screws Nails Headboard,45,40,72, High, Bamboo bed
+Double bed, Furniture, Wood, Yes, Wood Frame Bolts Slats,50,45,70, High, Rattan double bed
+Queen bed, Furniture, Wood, Yes, Wood Screws Bolts Headboard,55,50,74, High, Bamboo queen bed
+King bed, Furniture, Wood, Yes, Wood Frame Screws Support Beam,60,55,76, High, Reclaimed wood king bed
+Bunk bed, Furniture, Metal, Yes, Steel Bolts Ladder Guardrail,52,40,68, Medium, Wooden bunk bed
+Trundle bed, Furniture, Wood, Yes, Wood Frame Rollers Screws,58,48,70, High, Bamboo trundle bed
+Daybed, Furniture, Wood, Yes, Wood Cushion Slats Screws,50,42,72, High, Rattan daybed
+Bedside table, Furniture, Wood, Yes, Wood Drawer Handle Nails,28,20,71, High, Bamboo table
+Nightstand, Furniture, Wood, Yes, Wood Drawer Screws Handle,26,18,70, High, Bamboo nightstand
+Dressing table, Furniture, Wood, Yes, Wood Mirror Drawer Handle,38,30,69, Medium, Bamboo dressing table
+Wardrobe (2-door 3-door), Furniture,Wood,yes, Wood Hinges Rods Shelves,75,60,65,Medium, Reclaimed wood wardrobe
+Chest of drawers, Furniture, Wood, Yes, Wood Drawer Handle Screws,48,35,67, Medium, Bamboo drawers
+Vanity unit, Furniture, Wood, Yes, Wood Mirror Drawer Handle,50,38,70, High, Recycled wood vanity
+Headboard, Furniture, Fabric, Yes, Wood Foam Fabric Stitching,32,25,66, Medium, Bamboo frame headboard
+Mattress (foam-spring), Furniture, Foam,No, Latex Foam Fabric Spring,85,100,40,Low, Organic cotton mattress
+Bookshelf, Furniture, Wood, Yes, Wood Planks Screws Nails,40,30,70, High, Bamboo bookshelf
+Display cabinet, Furniture, Glass, Yes, Wood Glass Hinges Handles,60,40,65, Medium, Recycled glass cabinet
+Shoe rack, Furniture, Wood, Yes, Wood Screws Shelves Hinges,35,28,68, Medium, Bamboo shoe rack
+Storage bench, Furniture, Wood, Yes, Wood Hinges Cushion Screws,42,35,70, High, Rattan storage bench
+Storage ottoman, Furniture, Fabric, Yes, Wood Foam Fabric Hinges,38,32,67, Medium, Jute storage ottoman
+TV unit, Furniture, Wood, Yes, Wood Shelves Hinges Screws,45,38,72, High, Reclaimed wood TV unit
+Media console, Furniture, Wood, Yes, Wood Hinges Shelves Screws,50,42,70, High, Bamboo media console
+Sideboard, Furniture, Wood, Yes, Wood Shelves Drawers Hinges,48,40,71, High, Bamboo sideboard
+Buffet cabinet, Furniture, Wood, Yes, Wood Hinges Handles Shelves,55,45,73, High, Recycled wood buffet
+Kitchen cabinet, Furniture, Wood, Yes, Wood Hinges Shelves Handles,60,50,65, Medium, Bamboo kitchen cabinet
+Pantry unit, Furniture, Wood, Yes, Wood Shelves Hinges Screws,58,48,67, Medium, Bamboo pantry unit
+Wall shelf, Furniture, Wood, Yes, Wood Screws Brackets Anchors,22,18,74, High, Bamboo shelf
+Corner shelf, Furniture, Wood, Yes, Wood Brackets Screws Nails,25,20,70, High, Rattan shelf
+Floating shelf, Furniture, Wood, Yes, Wood Brackets Screws Glue,20,15,72, High, Bamboo floating shelf
+Storage cube organizer, Furniture, Plastic, No, Plastic Panels Connectors Screws,45,30,50, Low, Cardboard organizer
+Dining table, Furniture, Wood, Yes, Wood Screws Nails Legs,60,55,72, High, Bamboo dining table
+Coffee table, Furniture, Wood, Yes, Wood Legs Screws Top,45,35,70, High, Reclaimed wood table
+Console table, Furniture, Wood, Yes, Wood Legs Screws Top,42,30,68, Medium, Bamboo console table
+Side table, Furniture, Wood, Yes, Wood Screws Legs Nails,38,28,70, High, Bamboo side table
+Nesting tables, Furniture, Wood, Yes, Wood Screws Nails Legs,36,25,72, High, Bamboo nesting tables
+Study desk, Furniture, Wood, Yes, Wood Screws Hinges Drawer,48,40,70, High, Bamboo desk
+Writing desk, Furniture, Wood, Yes, Wood Screws Nails Legs,46,38,69, Medium, Bamboo writing desk
+Computer desk, Furniture, Wood, Yes, Wood Hinges Screws Drawer,50,42,70, High, Bamboo computer desk
+Laptop table, Furniture, Wood, Yes, Wood Hinges Screws Legs,32,25,72, High, Bamboo laptop table
+Foldable table, Furniture, Metal, Yes, Aluminum Hinges Screws Locks,28,20,68, Medium, Recycled metal table
+Workbench, Furniture, Metal, Yes, Steel Screws Nuts Surface,55,45,65, Medium, Wooden workbench
+Craft table, Furniture, Wood, Yes, Wood Screws Hinges Drawer,42,35,70, High, Bamboo craft table
+Patio chair, Furniture, Metal, Yes, Aluminum Screws Frame Mesh,30,25,67, Medium, Rattan patio chair
+Patio table, Furniture, Metal, Yes, Aluminum Screws Top Legs,32,28,68, Medium, Bamboo patio table
+Garden bench, Furniture, Wood, Yes, Wood Screws Slats Frame,50,40,70, High, Bamboo garden bench
+Swing chair, Furniture, Metal, Yes, Steel Chains Hooks Frame,48,38,65, Medium, Rattan swing chair
+Hammock stand, Furniture, Metal, Yes, Steel Tubes Screws Hooks,52,42,66, Medium, Bamboo frame stand
+Shoe cabinet, Furniture, Wood, Yes, Wood Hinges Shelves Screws,40,32,70, High, Bamboo shoe cabinet
+Laundry hamper, Furniture, Fabric, Yes, Cotton Frame Stitching Handles,30,25,68, Medium, Jute hamper
+Coat rack, Furniture, Wood, Yes, Wood Screws Hooks Base,32,28,70, High, Bamboo coat rack
+Room divider, Furniture, Wood, Yes, Wood Hinges Panels Screws,45,38,70, High, Bamboo room divider
+Mirror cabinet, Furniture, Glass, Yes, Wood Mirror Hinges Screws,50,40,65, Medium, Recycled glass mirror cabinet
+Chair, Furniture, Plastic, No, Plastic,70,55,45, Low, Wooden chair
+Table, Furniture, Plastic, No, Plastic,75,60,40, Low, Bamboo table
+Sofa, Furniture, Fabric, Yes, Wood foam fabric,65,75,55, Medium, Recycled fabric sofa
+Coffee table, Furniture, Glass, Yes, Wood glass,55,45,65, Medium, Bamboo coffee table
+Dining table, Furniture, Wood, Yes, Wood,45,40,70, High, Recycled wood table
+Bookshelf, Furniture, Wood, Yes, Wood,40,35,75, High, Reclaimed wood shelf
+Wardrobe, Furniture, Wood, Yes, Wood,50,45,65, Medium, Bamboo wardrobe
+Bed, Furniture, Wood, Yes, Wood,55,50,65, Medium, Recycled wood bed
+Mattress, Furniture, Fabric, Yes, Foam cotton,70,80,45, Low, Organic cotton mattress
+Pillow, Furniture, Fabric, Yes, Cotton fiber,45,55,65, Medium, Organic cotton pillow
+Blanket, Furniture, Fabric, Yes, Wool cotton,50,60,60, Medium, Recycled fiber blanket
+Curtains, Furniture, Fabric, Yes, Polyester,55,65,55, Medium, Cotton curtains
+Cushion, Furniture, Fabric, Yes, Foam fabric,50,55,60, Medium, Recycled cotton cushion
+Study desk, Furniture, Wood, Yes, Wood,45,40,70, High, Bamboo desk
+Office chair, Furniture, Metal, Yes, Steel foam fabric,60,50,55, Medium, Recycled steel chair
+Stool, Furniture, Plastic, No, Plastic,65,50,45, Low, Wooden stool
+Bench, Furniture, Wood, Yes, Wood,40,35,75, High, Recycled wood bench
+TV stand, Furniture, Plastic, No, Plastic,70,55,45, Low, Bamboo TV stand
+Shoe rack, Furniture, Plastic, No, Plastic,65,45,50, Low, Metal rack
+Cabinet, Furniture, Wood, Yes, Wood,50,45,65, Medium, Reclaimed wood cabinet
+Drawer unit, Furniture, Wood, Yes, Wood,55,50,60, Medium, Bamboo drawer unit
+Mirror frame, Furniture, Plastic, No, Plastic glass,60,50,50, Low, Wooden frame
+Wall shelf, Furniture, Wood, Yes, Wood,45,35,70, High, Recycled wood shelf
+Side table, Furniture, Wood, Yes, Wood,50,40,68, Medium, Bamboo side table
+Bean bag, Furniture, Fabric, No, Polyester foam,75,65,40, Low, Organic cotton bean bag
+Recliner, Furniture, Fabric, Yes, Metal foam fabric,70,80,45, Low, Recycled metal recliner
+Bedside lamp, Furniture, Plastic, No, Plastic metal,65,50,50, Low, Bamboo lamp
+Dining chair, Furniture, Wood, Yes, Wood,45,40,68, Medium, Bamboo dining chair
+Kitchen rack, Furniture, Metal, Yes, Steel,55,45,60, Medium, Recycled steel rack
+Study lamp, Furniture, Plastic, No, Plastic metal,60,50,50, Low, Solar study lamp
+Wall clock, Furniture, Plastic, No, Plastic metal,55,45,55, Medium, Wooden wall clock
+Mirror wardrobe, Furniture, Glass, Yes, Glass wood,65,60,55, Medium, Recycled glass wardrobe
+Dressing table, Furniture, Wood, Yes, Wood glass,50,45,65, Medium, Recycled wood table
+Baby crib, Furniture, Wood, Yes, Wood,40,35,75, High, Bamboo crib
+Rocking chair, Furniture, Wood, Yes, Wood,45,40,70, High, Bamboo rocking chair
+Books rack, Furniture, Wood, Yes, Wood,40,35,75, High, Reclaimed wood rack
+Patio chair, Furniture, Metal, Yes, Aluminum,55,45,60, Medium, Recycled aluminum chair
+Outdoor table, Furniture, Plastic, No, Plastic,65,50,45, Low, Bamboo outdoor table
+Work desk, Furniture, Metal, Yes, Steel,55,45,60, Medium, Recycled steel desk
+Dishwashing liquid, Daily Use, Plastic, No, Chemicals,70,60,42, Low, Refill pouch version
+Scrub pad, Daily Use, Plastic, No, Synthetic fiber,55,40,50, Low, Coconut coir scrub
+Steel wool, Daily Use, Metal, Yes, Steel,35,25,65, Medium, Recycled steel wool
+Floor cleaner, Daily Use, Plastic, No, Chemicals,75,65,38, Low, Bio-based cleaner
+Toilet cleaner, Daily Use, Plastic, No, Chemicals,80,70,35, Low, Eco-toilet cleaner
+Glass cleaner, Daily Use, Plastic, No, Chemicals,65,50,45, Low, Vinegar-based spray
+Surface disinfectant, Daily Use, Plastic, No, Chemicals,70,60,40, Low, Herbal disinfectant
+Laundry detergent, Daily Use, Plastic, No, Chemicals,75,80,42, Low, Eco detergent powder
+Fabric softener, Daily Use, Plastic, No, Chemicals,70,75,40, Low, Natural softener
+Stain remover, Daily Use, Plastic, No, Chemicals,72,65,38, Low, Lemon-based remover
+Bleach, Daily Use, Plastic, No, Chemicals,85,80,30, Low, Hydrogen peroxide cleaner
+Mop, Daily Use, Plastic, No, Metal,55,45,50, Low, Bamboo mop
+Broom, Daily Use, Plastic, No, Fiber,45,35,60, Medium, Coconut broom
+Dustpan, Daily Use, Plastic, No, Plastic,50,40,45, Low, Metal dustpan
+Bucket, Daily Use, Plastic, No, Plastic,55,45,48, Low, Metal bucket
+Toilet brush, Daily Use, Plastic, No, Plastic,58,40,44, Low, Bamboo handle brush
+Garbage bags, Daily Use, Plastic, No, Plastic,90,85,25, Low, Compostable garbage bag
+Air freshener, Daily Use, Plastic, No, Chemicals,80,70,35, Low, Natural oil diffuser
+Room spray, Daily Use, Plastic, No, Chemicals,75,65,38, Low, Herbal spray
+Cleaning gloves, Daily Use, Rubber, Yes, Rubber,50,40,55, Medium, Biodegradable gloves
+,,,,,,,,,
+Cooking oil, Daily Use, Plastic, No, Oil,65,55,45, Low, Glass bottle oil
+Spices (turmeric  chili powder etc),Daily Use,Plastic,No,Spices,48,42,65,Medium, Glass jar spices
+Instant noodles, Daily Use, Plastic, No, Wheat,55,45,50, Low, Paper cup noodles
+Packaged snacks, Daily Use, Plastic, No, Corn/Potato,70,65,40, Low, Paper pouch snacks
+Bottled water, Daily Use, Plastic, No, Plastic,85,90,25, Low, Reusable bottle
+Tiffin box, Daily Use, Plastic, No, Plastic,45,35,60, Medium, Stainless steel tiffin
+Water bottle, Daily Use, Plastic, No, Plastic,55,45,55, Medium, Metal bottle
+Lunch bag, Daily Use, Fabric, Yes, Polyester,35,28,65, Medium, Cotton lunch bag
+Cling film, Daily Use, Plastic, No, Plastic,75,70,30, Low, Beeswax wrap
+Aluminum foil, Daily Use, Aluminum, Yes, Metal,60,40,65, Medium, Recycled foil
+Ziplock bags, Daily Use, Plastic, No, Plastic,80,70,35, Low, Silicone zip bag
+Paper towels, Daily Use, Paper, Yes, Paper,45,50,70, High, Recycled paper towel
+Napkins, Daily Use, Paper, Yes, Paper,40,45,70, High, Cloth napkin
+Tissue box, Daily Use, Paper, Yes, Paper,48,52,68, Medium, Recycled paper tissue
+,,,,,,,,,
+Pen, Daily Use, Plastic, No, Plastic,55,40,50, Low, Refillable metal pen
+Pencil, Daily Use, Wood, Yes, Graphite,35,25,72, High, Recycled pencil
+Eraser, Daily Use, Rubber, Yes, Rubber,40,30,68, Medium, Biodegradable eraser
+Sharpener, Daily Use, Plastic, No, Metal,45,35,55, Medium, Metal sharpener
+Notebook, Daily Use, Paper, Yes, Paper,40,35,68, Medium, Recycled paper notebook
+Diary, Daily Use, Paper, Yes, Paper,42,38,70, High, Eco diary
+Sticky notes, Daily Use, Paper, Yes, Paper,38,35,68, Medium, Recycled sticky notes
+Highlighter, Daily Use, Plastic, No, Ink,55,40,50, Low, Refillable highlighter
+Marker, Daily Use, Plastic, No, Ink,60,45,45, Low, Refillable marker
+Whiteboard, Daily Use, Plastic, No, Board,50,40,55, Medium, Recycled board
+Whiteboard marker, Daily Use, Plastic, No, Ink,60,45,45, Low, Refillable marker
+Stapler, Daily Use, Metal, Yes, Steel,35,28,68, Medium, Recycled metal stapler
+Staples, Daily Use, Metal, Yes, Steel,30,25,70, High, Recycled staples
+Paper clips, Daily Use, Metal, Yes, Steel,25,20,74, High, Recycled clips
+Rubber bands, Daily Use, Rubber, Yes, Rubber,30,25,70, High, Biodegradable bands
+Scissors, Daily Use, Metal, Yes, Steel,38,30,65, Medium, Recycled steel scissors
+Tape, Daily Use, Plastic, No, Adhesive,60,50,45, Low, Paper tape
+Glue stick, Daily Use, Plastic, No, Adhesive,65,55,42, Low, Eco glue stick
+Envelopes, Daily Use, Paper, Yes, Paper,35,30,70, High, Recycled paper envelopes
+File folders, Daily Use, Plastic, No, Plastic,55,40,50, Low, Paper file folder
+Refrigerator, Appliances, Metal, Yes, Steel plastic,80,70,45, Low, Energy-efficient refrigerator
+Washing machine, Appliances, Metal, Yes, Steel plastic,85,75,42, Low, Low-water washing machine
+Microwave oven, Appliances, Metal, Yes, Steel glass plastic,70,60,55, Medium, Solar-powered microwave
+Air conditioner, Appliances, Metal, Yes, Steel aluminum plastic,90,85,35, Low, Inverter air conditioner
+Ceiling fan, Appliances, Metal, Yes, Aluminum copper,65,55,60, Medium, Energy-efficient fan
+Table fan, Appliances, Plastic, No, Plastic metal,60,50,55, Medium, Bamboo fan
+Air purifier, Appliances, Plastic, No, Plastic filter motor,75,70,40, Low, HEPA filter air purifier
+Vacuum cleaner, Appliances, Plastic, No, Plastic motor metal,70,65,45, Low, Bagless vacuum cleaner
+Water purifier, Appliances, Plastic, No, Plastic filter,75,65,45, Low, Gravity water filter
+Mixer grinder, Appliances, Metal, Yes, Steel plastic,70,60,55, Medium, Manual grinder
+Juicer, Appliances, Plastic, No, Plastic metal,65,55,50, Low, Hand juicer
+Toaster, Appliances, Metal, Yes, Steel,60,50,55, Medium, Energy-efficient toaster
+Electric kettle, Appliances, Metal, Yes, Steel plastic,65,55,50, Low, Solar-powered kettle
+Induction stove, Appliances, Plastic, No, Plastic metal,70,65,45, Low, Energy-efficient induction
+Rice cooker, Appliances, Plastic, No, Plastic metal,75,70,42, Low, Eco rice cooker
+Dishwasher, Appliances, Metal, Yes, Steel plastic,80,75,40, Low, Water-saving dishwasher
+Oven, Appliances, Metal, Yes, Steel glass,70,65,45, Low, Solar oven
+Iron box, Appliances, Metal, Yes, Steel plastic,65,55,55, Medium, Steam-efficient iron
+Hair dryer, Appliances, Plastic, No, Plastic metal,60,50,50, Low, Energy-saving dryer
+Hair straightener, Appliances, Plastic, No, Plastic ceramic,65,55,50, Low, Low-energy straightener
+Geyser, Appliances, Metal, Yes, Steel plastic,80,70,45, Low, Solar water heater
+Heater, Appliances, Metal, Yes, Steel aluminum,75,65,48, Low, Infrared heater
+Blender, Appliances, Plastic, No, Plastic metal,65,55,50, Low, Manual blender
+Grill, Appliances, Metal, Yes, Steel,70,60,55, Medium, Charcoal-free grill
+Sandwich maker, Appliances, Plastic, No, Plastic metal,65,55,50, Low, Non-electric sandwich press
+Electric cooker, Appliances, Metal, Yes, Steel plastic,70,65,50, Low, Solar cooker
+Electric tandoor, Appliances, Metal, Yes, Steel,75,65,48, Low, Eco tandoor
+Exhaust fan, Appliances, Metal, Yes, Aluminum plastic,65,55,55, Medium, Energy-efficient exhaust
+Cooler, Appliances, Plastic, No, Plastic metal,75,70,40, Low, Water-efficient cooler
+Humidifier, Appliances, Plastic, No, Plastic metal,70,65,45, Low, Ultrasonic humidifier
+Dehumidifier, Appliances, Plastic, No, Plastic metal,70,65,45, Low, Energy-efficient dehumidifier
+Electric chimney, Appliances, Metal, Yes, Steel aluminum,75,65,48, Low, Filterless chimney
+Room heater, Appliances, Metal, Yes, Steel plastic,70,65,50, Low, Ceramic heater
+Refrigerated cooler, Appliances, Metal, Yes, Steel plastic,85,75,40, Low, Inverter cooler
+Water heater, Appliances, Metal, Yes, Steel,80,70,45, Low, Solar water heater
+Steam cleaner, Appliances, Plastic, No, Plastic metal,70,65,45, Low, Eco steam cleaner
+Food processor, Appliances, Plastic, No, Plastic metal,75,70,42, Low, Manual food processor
+Coffee maker, Appliances, Plastic, No, Plastic metal,65,55,50, Low, Manual coffee press
+Electric whisk, Appliances, Plastic, No, Plastic metal,60,50,52, Low, Hand whisk
+Hand blender, Appliances, Plastic, No, Plastic metal,65,55,50, Low, Manual blender
+Electric stove, Appliances, Metal, Yes, Steel plastic,75,65,48, Low, Induction stove
+Portable fan, Appliances, Plastic, No, Plastic metal,60,50,50, Low, Rechargeable fan
+Smart plug, Appliances, Plastic, No, Plastic metal,55,45,55, Medium, Energy-monitoring plug
+Smart bulb, Appliances, Plastic, No, Plastic glass,55,45,55, Medium, LED smart bulb
+Robot vacuum, Appliances, Plastic, No, Plastic metal,80,70,42, Low, Rechargeable vacuum robot
+Electric massager, Appliances, Plastic, No, Plastic metal,70,60,45, Low, Manual massager
+Hand dryer, Appliances, Metal, Yes, Steel plastic,70,60,50, Low, Low-energy hand dryer
+Floor mop refill,Daily Use,Plastic,No,Plastic microfiber,70,60,45,Low,Bamboo mop refill
+Toilet rim block,Daily Use,Plastic,No,Plastic chemical gel,75,65,40,Low,Organic toilet cleaner
+Drain cleaner,Daily Use,Plastic,No,Plastic chemical,80,70,35,Low,Enzyme-based drain cleaner
+Limescale remover,Daily Use,Plastic,No,Plastic chemical,75,65,40,Low,Vinegar-based cleaner
+Furniture polish,Daily Use,Plastic,No,Plastic wax chemical,70,60,45,Low,Plant-based polish
+Carpet cleaner,Daily Use,Plastic,No,Plastic detergent chemical,75,65,42,Low,Organic carpet cleaner
+Air purifier filter,Daily Use,Plastic,No,Plastic fiber carbon,70,65,50,Low,Washable HEPA filter
+Dish rack,Daily Use,Metal,Yes,Steel plastic,65,55,60,Medium,Bamboo dish rack
+Sink strainer,Daily Use,Metal,Yes,Steel plastic,60,50,55,Medium,Stainless steel strainer
+Sponge wipes,Daily Use,Plastic,No,Plastic cellulose fiber,70,60,45,Low,Biodegradable sponge
+Microfiber cloth,Daily Use,Fabric,No,Polyester nylon,65,55,50,Low,Organic cotton cloth
+Window squeegee,Daily Use,Plastic,No,Plastic rubber,60,50,55,Medium,Bamboo handle squeegee
+Ironing board cover,Daily Use,Fabric,No,Cotton foam,55,45,65,Medium,Organic cotton cover
+Laundry basket,Daily Use,Plastic,No,Plastic metal,70,60,45,Low,Bamboo laundry basket
+Cloth pegs,Daily Use,Plastic,No,Plastic spring,60,50,55,Medium,Wooden pegs
+Clothesline rope,Daily Use,Plastic,No,Nylon polyester,65,55,50,Low,Cotton rope
+Shoe polish,Daily Use,Plastic,No,Plastic wax chemical,70,60,45,Low,Beeswax shoe polish
+Shoe brush,Daily Use,Wood,Yes,Wood bristles,55,45,65,Medium,Bamboo shoe brush
+Shoe deodorizer,Daily Use,Plastic,No,Plastic gel,65,55,50,Low,Charcoal shoe deodorizer
+Insect repellent spray,Daily Use,Plastic,No,Plastic aerosol chemical,75,65,40,Low,Natural oil spray
+Spice rack,Daily Use,Wood,Yes,Wood metal,55,45,70,High,Bamboo spice rack
+Oil dispenser,Daily Use,Glass,Yes,Glass metal,60,50,60,Medium,Steel oil dispenser
+Vinegar bottle,Daily Use,Glass,Yes,Glass metal,55,45,70,High,Reusable glass bottle
+Mustard paste,Daily Use,Plastic,No,Plastic condiment,70,60,45,Low,Glass jar mustard paste
+Cooking spray,Daily Use,Metal,Yes,Aluminum chemical,75,65,42,Low,Refillable spray bottle
+Baking soda,Daily Use,Paper,Yes,Paper powder,50,40,75,High,Same
+Baking powder,Daily Use,Paper,Yes,Paper powder,55,45,70,High,Same
+Yeast sachets,Daily Use,Paper,Yes,Paper yeast,50,40,75,High,Same
+Vanilla essence,Daily Use,Glass,Yes,Glass liquid,55,45,70,High,Natural vanilla extract
+Cocoa powder,Daily Use,Paper,Yes,Paper powder,50,40,75,High,Organic cocoa powder
+Corn flour,Daily Use,Paper,Yes,Paper powder,55,45,70,High,Same
+Custard powder,Daily Use,Paper,Yes,Paper powder,55,45,70,High,Same
+Gelatin,Daily Use,Plastic,No,Plastic powder,65,55,50,Low,Vegan agar powder
+Instant soup mix,Daily Use,Plastic,No,Plastic powder,70,60,45,Low,Paper sachet soup mix
+Salad dressing,Daily Use,Plastic,No,Plastic glass,70,60,45,Low,Glass bottle dressing
+Croutons,Daily Use,Plastic,No,Plastic bread,65,55,50,Low,Paper packed croutons
+Bread crumbs,Daily Use,Plastic,No,Plastic bread,65,55,50,Low,Paper packed crumbs
+Canned tuna,Daily Use,Metal,Yes,Tin fish,70,60,45,Low,Glass jar tuna
+Canned chickpeas,Daily Use,Metal,Yes,Tin beans,65,55,55,Medium,Glass jar chickpeas
+Packaged tofu,Daily Use,Plastic,No,Plastic soy,70,60,45,Low,Compostable pack tofu
+Packaged curd,Daily Use,Plastic,No,Plastic dairy,70,60,45,Low,Glass jar curd
+Flavored yogurt,Daily Use,Plastic,No,Plastic dairy,70,60,45,Low,Glass jar yogurt
+Cheese spread,Daily Use,Plastic,No,Plastic dairy,70,60,45,Low,Glass jar cheese spread
+Butter cubes,Daily Use,Paper,Yes,Paper dairy,55,45,70,High,Same
+Paneer cubes,Daily Use,Plastic,No,Plastic dairy,70,60,45,Low,Compostable paneer pack
+Frozen samosas,Daily Use,Plastic,No,Plastic pastry,75,65,42,Low,Paper packed samosas
+Frozen idlis,Daily Use,Plastic,No,Plastic rice,70,60,45,Low,Paper packed idlis
+Frozen rotis,Daily Use,Plastic,No,Plastic wheat,70,60,45,Low,Paper packed rotis
+Frozen burger patties,Daily Use,Plastic,No,Plastic meat,75,65,42,Low,Paper packed patties
+Frozen sausages,Daily Use,Plastic,No,Plastic meat,75,65,42,Low,Compostable sausage pack
+Ice cubes tray,Daily Use,Plastic,No,Plastic rubber,65,55,50,Low,Silicone tray
+Ice packs,Daily Use,Plastic,No,Plastic gel,70,60,45,Low,Reusable gel pack
+Gel coolers,Daily Use,Plastic,No,Plastic gel,70,60,45,Low,Reusable cooler gel
+Refrigerator deodorizer,Daily Use,Plastic,No,Plastic charcoal,65,55,55,Medium,Charcoal deodorizer
+Freezer bags,Daily Use,Plastic,No,Plastic,75,65,42,Low,Reusable silicone bags
+Ice cream cones,Daily Use,Paper,Yes,Paper wafer,50,40,75,High,Same
+Popsicles,Daily Use,Plastic,No,Plastic stick,70,60,45,Low,Paper packed popsicles
+Frozen fruit pulp,Daily Use,Plastic,No,Plastic fruit,70,60,45,Low,Compostable pulp pack
+Frozen spinach,Daily Use,Plastic,No,Plastic vegetable,70,60,45,Low,Compostable pack spinach
+Frozen mixed berries,Daily Use,Plastic,No,Plastic fruit,70,60,45,Low,Compostable pack berries
+Travel-size shampoo,Daily Use,Plastic,No,Plastic liquid,70,60,45,Low,Refill pouch shampoo
+Travel-size toothpaste,Daily Use,Plastic,No,Plastic paste,70,60,45,Low,Toothpaste tablets
+Travel pouch,Daily Use,Fabric,No,Polyester zipper,60,50,55,Medium,Organic cotton pouch
+Neck pillow,Daily Use,Fabric,No,Foam cotton,65,55,50,Low,Organic cotton pillow
+Eye mask,Daily Use,Fabric,No,Cotton elastic,60,50,55,Medium,Organic cotton mask
+Earplugs,Daily Use,Plastic,No,Plastic foam,65,55,50,Low,Silicone earplugs
+Luggage tag,Daily Use,Plastic,No,Plastic metal,60,50,55,Medium,Recycled leather tag
+TSA lock,Daily Use,Metal,Yes,Steel,65,55,55,Medium,Recycled metal lock
+Mini sewing kit,Daily Use,Plastic,No,Plastic metal,60,50,55,Medium,Paper packed sewing kit
+Safety pins,Daily Use,Metal,Yes,Steel,55,45,65,Medium,Recycled steel pins
+Band-aids,Daily Use,Plastic,No,Plastic cotton,65,55,50,Low,Biodegradable bandages
+First aid kit,Daily Use,Plastic,No,Plastic metal,70,60,45,Low,Paper packed first aid kit
+Mosquito patch,Daily Use,Plastic,No,Plastic chemical,70,60,45,Low,Natural mosquito patch
+Hand warmers,Daily Use,Plastic,No,Plastic chemical,75,65,42,Low,Reusable hand warmers
+Rain poncho,Daily Use,Plastic,No,Plastic,75,65,42,Low,Biodegradable poncho
+Umbrella,Daily Use,Metal,Yes,Steel fabric,65,55,55,Medium,Bamboo handle umbrella
+Shoe bag,Daily Use,Fabric,No,Polyester,60,50,55,Medium,Cotton shoe bag
+Reusable shopping bag,Daily Use,Fabric,Yes,Cotton,55,45,70,High,Jute bag
+Foldable water bottle,Daily Use,Plastic,No,Plastic silicone,70,60,45,Low,Stainless steel bottle
+Portable fan,Daily Use,Plastic,No,Plastic metal,70,60,45,Low,Rechargeable fan
+Instant khichdi mix,Food,Plastic,No,Plastic rice lentils spices,70,60,45,Low,Paper packed khichdi mix
+Packaged miso soup,Food,Plastic,No,Plastic soy paste seaweed,70,60,45,Low,Paper packed miso soup
+Flavored couscous,Food,Plastic,No,Plastic wheat spices,65,55,55,Medium,Paper packed couscous
+Ready-to-eat dal tadka,Food,Plastic,No,Plastic lentils spices oil,75,65,42,Low,Compostable dal pack
+Packaged sushi rolls,Food,Plastic,No,Plastic rice seaweed filling,75,65,40,Low,Compostable sushi pack
+Packaged falafel mix,Food,Plastic,No,Plastic chickpeas spices,70,60,45,Low,Paper packed falafel mix
+Packaged rice noodles,Food,Plastic,No,Plastic rice flour,70,60,45,Low,Paper packed noodles
+Packaged millet dosa batter,Food,Plastic,No,Plastic millet water,75,65,40,Low,Compostable dosa batter pack
+Packaged sprouted moong salad,Food,Plastic,No,Plastic moong vegetables,70,60,45,Low,Compostable salad pack
+Packaged vegetable broth,Food,Plastic,No,Plastic vegetables salt,70,60,45,Low,Glass jar vegetable broth
+Packaged chicken broth,Food,Plastic,No,Plastic chicken salt,75,65,42,Low,Glass jar chicken broth
+Packaged tomato soup,Food,Plastic,No,Plastic tomato spices,70,60,45,Low,Paper packed tomato soup
+Packaged protein smoothies,Food,Plastic,No,Plastic fruit protein,70,60,45,Low,Glass bottle smoothie
+Packaged almond butter,Food,Plastic,No,Plastic almonds oil,70,60,45,Low,Glass jar almond butter
+Packaged ghee rice,Food,Plastic,No,Plastic rice ghee,75,65,40,Low,Compostable ghee rice pack
+Packaged sabudana khichdi,Food,Plastic,No,Plastic sabudana spices,70,60,45,Low,Paper packed sabudana khichdi
+Packaged rajgira laddoo,Food,Plastic,No,Plastic rajgira jaggery,70,60,45,Low,Paper packed laddoo
+Packaged energy laddoos,Food,Plastic,No,Plastic dryfruits jaggery,70,60,45,Low,Paper packed energy laddoo
+Packaged fruit & nut bars,Food,Plastic,No,Plastic nuts fruits,70,60,45,Low,Paper packed fruit nut bars
+Packaged vegan jerky,Food,Plastic,No,Plastic soy flavoring,70,60,45,Low,Compostable vegan jerky pack

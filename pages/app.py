@@ -191,7 +191,7 @@ except ImportError:
 @st.cache_resource
 def load_assets():
     # --- Use the exact filename provided by the user ---
-    df_path = "Sustainable_data.csv"
+    df_path = "Sustainable.csv"
     vocab_path = "app_vocab.json"  # Assumes you saved this from your notebook
 
     df = None
@@ -351,7 +351,8 @@ def load_data():
     if "df" in globals() and globals().get("df") is not None:
         return globals().get("df")
 
-    csv_path = os.path.join(os.getcwd(), "Sustainable_data.csv")
+    # Prefer the user's dataset path if provided
+    csv_path = os.path.join(os.getcwd(), "Sustainable.csv")
     if os.path.exists(csv_path):
         try:
             return pd.read_csv(csv_path)
@@ -381,6 +382,42 @@ def build_master_vocab(_df):
     return sorted(vocab)
 
 
+def resolve_column(df_obj, preferred_candidates):
+    """Try to resolve a column name from a list of candidate names.
+
+    Returns the actual column name present in df_obj or None if not found.
+    Uses exact match (case-insensitive), underscore/space normalization, then
+    a fuzzy-match fallback with a conservative score cutoff.
+    """
+    if df_obj is None:
+        return None
+
+    cols = list(df_obj.columns)
+    # Build normalized map
+    norm_map = {c.lower().strip(): c for c in cols}
+
+    for cand in preferred_candidates:
+        key = cand.lower().strip()
+        if key in norm_map:
+            return norm_map[key]
+        # Try replacing spaces/underscores
+        alt = key.replace(" ", "_")
+        for c in cols:
+            if c.lower().strip().replace(" ", "_") == alt:
+                return c
+
+    # Fuzzy fallback
+    try:
+        for cand in preferred_candidates:
+            match = process.extractOne(cand, cols, scorer=fuzz.WRatio)
+            if match and match[1] >= 75:
+                return match[0]
+    except Exception:
+        pass
+
+    return None
+
+
 def get_prediction_details(user_text, best_match_row):
     """Produce a small human-readable explanation for a prediction.
 
@@ -389,11 +426,28 @@ def get_prediction_details(user_text, best_match_row):
     if best_match_row is None:
         return "Unknown", "No alternative", "Unknown", "No match data available."
 
-    level = best_match_row.get("Sustainability_Level", "Unknown")
-    alternative = best_match_row.get(
-        "Sustainable_Alternative", "No alternative provided"
+    # Use keys that may vary between datasets. Default to the common names,
+    # but accept rows with different column headers.
+    level = (
+        best_match_row.get("Sustainability_Level")
+        or best_match_row.get("Sustainability Level")
+        or best_match_row.get("Sustainability_Score")
+        or best_match_row.get("sustainability_level")
+        or "Unknown"
     )
-    match_name = best_match_row.get("Name", "Unknown")
+    alternative = (
+        best_match_row.get("Sustainable_Alternative")
+        or best_match_row.get("Sustainable Alternative")
+        or best_match_row.get("Alternative")
+        or best_match_row.get("Suggested Alternative")
+        or "No alternative provided"
+    )
+    match_name = (
+        best_match_row.get("Name")
+        or best_match_row.get("Product Name")
+        or best_match_row.get("product")
+        or "Unknown"
+    )
 
     # Compute a simple Jaccard-style similarity on tokens for an explanation
     utoks = set(re.findall(r"[a-zA-Z]+", str(user_text).lower()))
@@ -803,18 +857,53 @@ if st.session_state.run_prediction:
                     "• Use common product names\n"
                 )
             else:
-                level_col = "Sustainability_Level"
-                alternative_col = "Sustainable_Alternative"
-                name_col = "Name"
+                # Resolve dataset column names flexibly to support variants
+                level_col = (
+                    resolve_column(
+                        df,
+                        [
+                            "Sustainability_Level",
+                            "Sustainability Level",
+                            "Sustainability_Score",
+                            "Sustainability Score",
+                            "sustainability_level",
+                        ],
+                    )
+                    or "Sustainability_Level"
+                )
 
-                if (
-                    level_col not in best_match.index
-                    or alternative_col not in best_match.index
-                    or name_col not in best_match.index
-                ):
-                    st.error("Error: Missing required columns in the dataset.")
+                alternative_col = (
+                    resolve_column(
+                        df,
+                        [
+                            "Sustainable_Alternative",
+                            "Sustainable Alternative",
+                            "Alternative",
+                            "Suggested Alternative",
+                            "sustainable_alternative",
+                        ],
+                    )
+                    or "Sustainable_Alternative"
+                )
+
+                name_col = (
+                    resolve_column(df, ["Name", "Product Name", "product"]) or "Name"
+                )
+
+                missing = [
+                    c
+                    for c in (level_col, alternative_col, name_col)
+                    if c not in best_match.index
+                ]
+                if missing:
+                    st.error(
+                        "Error: Missing required columns in the dataset."
+                        f" Could not find columns: {missing}. Available columns: {', '.join(df.columns)}"
+                    )
                 else:
-                    # --- MODIFIED: Use new logic function ---
+                    # Use flexible getter in get_prediction_details (it already handles
+                    # common alternate names) but pass through the resolved names for
+                    # clarity in the UI and future extensions.
                     level, alternative, match_name, reason = get_prediction_details(
                         use_text, best_match
                     )
